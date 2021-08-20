@@ -1,0 +1,65 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+
+}
+
+form{
+    align-content: center;
+
+}
+
+
+
+
+
+
+td{
+    height: 70px;
+    margin-bottom:30px;
+    line-height: 20px;
+
+}
+body{
+    background-color: antiquewhite;
+}
+
+
+.table{
+    background-color:burlywood;
+    
+
+}
+table{
+    
+    margin: 50px;
+    margin-left: 15%;
+}
+table td{
+    border-top: 2px solid;
+}
+table th{
+    color: blue;
+}
+.design{
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 5px; 
+    border-radius: 2em;
+    padding: 12px;
+}
+.design:hover{
+    background-color: burlywood;
+}
+
+.survol:hover{
+    background-color:cornsilk;
+
+}
+
+
+
+
+
+
